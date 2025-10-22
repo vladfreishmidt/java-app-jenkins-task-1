@@ -28,4 +28,3 @@ pipeline {
 ```
 
 P.S. You have access to [Jenkins playground](https://killercoda.com/online-marathon/course/Jenkins/Jenkins_playground). Otherwise, make sure you have a functional Jenkins instance configured.
-# java-app-jenkins-task-1
