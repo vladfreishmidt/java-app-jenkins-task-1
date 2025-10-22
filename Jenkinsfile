@@ -3,7 +3,7 @@ pipeline {
   agent any
     // Set the environment variable APP_PORT=9090
   tools {
-    maven 'apache-maven-3.0.1' 
+    maven '3.9.11' 
   }
   stages {
     stage('Build') {
